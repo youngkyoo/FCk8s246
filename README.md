@@ -1,7 +1,7 @@
 # FastCampus
 ## Kubernetes와 Docker로 한번에 끝내는 컨테이너 기반 MSA 실습 예제코드 입니다.
 
-> 강의 구성은 다음과 같이 되어 있습니다.
+> 강의 구성은 다음과 같이 되어 있습니다
 ### * Part2_Docker : Docker 활용
 ### * Part4_Kubernetes : 개발자를 위한 쿠버네티스 활용
 ### * Part6_MSA : 쿠버네티스로 구축하는 MSA
